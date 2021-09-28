@@ -1,8 +1,7 @@
 # Customer-Loan-default-predictiob
 In this project we are predicting  whether customer will default the loan or not 
 
-
-**********************---------------------------------*****************************
+**********************************************************************************************************
 
 The Bank Indessa has not done well in the last 3 quarters. Their NPAs (Non Performing Assets)
 have reached all time high. It is starting to lose the confidence of its investors. As a result, it’s stock
