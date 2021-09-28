@@ -1,0 +1,12 @@
+Hi.
+kartik karande Here,
+The data which you provided was so Huge for my laptop it was taking lots of time to load.
+To overcome that problem, Devided whole model in 3 part  
+
+1> Baseline model (in which we are calculating the baseling accuracy 
+   without any EDA or Feature engineering)
+2> Exploratory Data analysis and Visualizations
+3> Feature Engineering and model building
+
+
+Thank you 
